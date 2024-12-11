@@ -22,7 +22,7 @@ If you want a quick and anonymous solution to spoofing, this sender is for you. 
 - Support plain and Unicode text.
 - Tested and supported countries: Germany, Portugal, Spain, Greece, Poland, Sweden, Finland and Netherlands.
 
-## Browser application 🌐
+## Web browser application 🌐
 
 [Official Dark Sender application website](https://darksender.dreamhosters.com)
 
