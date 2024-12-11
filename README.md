@@ -19,6 +19,7 @@ If you want a quick and anonymous solution to spoofing, this sender is for you. 
 
 - Spoof any name and phone number.
 - Support alphanumerical IDs.
+- Support for multiple SMS sending (adding a comma "," after each contact for example: +30666009900, +34666666666).
 - Support plain and Unicode text.
 - Tested and supported countries: Germany, Portugal, Spain, Greece, Poland, Sweden, Finland and Netherlands.
 
