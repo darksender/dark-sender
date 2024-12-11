@@ -22,9 +22,9 @@ If you want a quick and anonymous solution to spoofing, this sender is for you. 
 - Support plain and Unicode text.
 - Tested and supported countries: Germany, Portugal, Spain, Greece, Poland, Sweden, Finland and Netherlands.
 
-## Web browser application 🌐
+## Browser application 🌐
 
-[Official Dark Sender website application](https://darksender.dreamhosters.com)
+[Official Dark Sender application website](https://darksender.dreamhosters.com)
 
 ## Buy License Key for email spoofer 🔑📧
 
