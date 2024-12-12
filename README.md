@@ -13,7 +13,7 @@ If you want a quick and anonymous solution to spoofing, this sender is for you. 
 - High rate of reaching the inbox.
 - Support for multiple email sending (adding a comma "," after each contact for example: email@domain.com, anotheremail@anotherdomain.com).
 - Support plain, HTML and Rich text.
-- Support for attach multiple files in any format support and size.
+- Support for attach multiple files in any format and size.
 
 ## SMS spoofer features 💬
 
