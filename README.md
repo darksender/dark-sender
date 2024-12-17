@@ -11,9 +11,9 @@ If you want a quick and anonymous solution to spoofing, this sender is for you. 
 - Spoof any name and email address.
 - Complete and flexible main headers (No field is required except 'To email' to handle all situations. You can send a message without a message, without a sender, use only Reply-To and all possible variations).
 - High rate of reaching the inbox.
-- Emails sent via own SMTP server and using own domain to appear legitimate.
+- Emails sent via own SMTP server using an own domain to appear legitimate.
 - Support Unicode for names (汉ЖकさΩ한).
-- Support Punycode for email domains (email@domáin.com).
+- Support Punycode for email domains for IDN homograph attacks (email@domáin.com).
 - Support for multiple email sending (adding a comma "," after each contact for example: email@domain.com, email2@domain2.com).
 - Support plain, HTML and Rich text.
 - Support for attach multiple files in any format and size.
