@@ -9,17 +9,21 @@ If you want a quick and anonymous solution to spoofing, this sender is for you. 
 ## Email spoofer features 📧
 
 - Spoof any name and email address.
-- Complete and flexible main headers.
+- Complete and flexible main headers (No field is required except 'To email' to handle all situations. You can send a message without a message, without a sender, use only Reply-To and all possible variations).
 - High rate of reaching the inbox.
-- Support for multiple email sending (adding a comma "," after each contact for example: email@domain.com, anotheremail@anotherdomain.com).
+- Emails sent via own SMTP server and using own domain to appear legitimate.
+- Support Unicode for names (汉ЖकさΩ한).
+- Support Punycode for email domains (email@domáin.com).
+- Support for multiple email sending (adding a comma "," after each contact for example: email@domain.com, email2@domain2.com).
 - Support plain, HTML and Rich text.
 - Support for attach multiple files in any format and size.
 
 ## SMS spoofer features 💬
 
-- Spoof any name and phone number.
-- Support alphanumerical IDs.
-- Support for multiple SMS sending (adding a comma "," after each contact for example: +30666009900, +34666666666).
+- Spoof any name and phone number
+- Support alphanumerical IDs (Boss, 汉ЖकさΩ한, Light Company...).
+- Support phone numbers (+48727516980, +4915510830069, +3584573966151...).
+- Support for sending multiple SMS (by adding a comma "," after each contact you can add another one for example: +3197010290704, +351916385611, +34660099515...).
 - Support plain and Unicode text.
 - Tested and supported countries: Germany, Portugal, Spain, Greece, Poland, Sweden, Finland and Netherlands.
 
