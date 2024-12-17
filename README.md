@@ -17,6 +17,7 @@ If you want a quick and anonymous solution to spoofing, this sender is for you. 
 - Support for multiple email sending (adding a comma "," after each contact for example: email@domain.com, email2@domain2.com).
 - Support plain, HTML and Rich text.
 - Support for attach multiple files in any format and size.
+- Quick and registration-free access using the web application. Support for all devices and operating systems (Windows, Linux, Mac, iPhone, Android, Raspberry...).
 
 ## SMS spoofer features 💬
 
@@ -26,6 +27,7 @@ If you want a quick and anonymous solution to spoofing, this sender is for you. 
 - Support for sending multiple SMS (by adding a comma "," after each contact you can add another one for example: +3197010290704, +351916385611, +34660099515...).
 - Support plain and Unicode text.
 - Tested and supported countries: Germany, Portugal, Spain, Greece, Poland, Sweden, Finland and Netherlands.
+- Quick and registration-free access using the web application. Support for all devices and operating systems (Windows, Linux, Mac, iPhone, Android, Raspberry...).
 
 ## Browser application 🌐
 
