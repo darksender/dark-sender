@@ -34,7 +34,7 @@ If you want a quick and anonymous solution to spoofing, this sender is for you. 
 
 ## Buy License Key for email spoofer 🔑📧
 
-The price of the License Key to use the email spoofer is **$70**. With the purchase of this License Key you will be able to **send unlimited emails for 1 year without daily limits**. This License Key expires 366 days after receiving it.
+The price of the License Key to use the email spoofer is **$80**. With the purchase of this License Key you will be able to **send unlimited emails for 1 year without daily limits**. This License Key expires 366 days after receiving it.
 
 **👛 Accepted payment methods:**
 
@@ -46,7 +46,7 @@ The price of the License Key to use the email spoofer is **$70**. With the purch
 
 ## Buy License Key for SMS spoofer 🔑💬
 
-The price of the License Key to use the SMS spoofer is **$80**. With the purchase of this License Key you will be able to **send 50,000 SMS without daily limits**. This License Key never expires, it is only used up when all available sends are used up.
+The price of the License Key to use the SMS spoofer is **$90**. With the purchase of this License Key you will be able to **send 50,000 SMS without daily limits**. This License Key never expires, it is only used up when all available sends are used up.
 
 **👛 Accepted payment methods:**
 
