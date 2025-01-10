@@ -12,7 +12,6 @@ If you want a quick and anonymous solution to spoofing, this sender is for you. 
 - High rate of reaching the inbox.
 - Emails sent via own SMTP server using an own domain to appear legitimate.
 - Support Unicode for names (汉ЖकさΩ한).
-- Support Punycode in email domains for IDN attacks (email@domáin.com).
 - Support for multiple email sending (adding a comma "," after each contact for example: email@domain.com, email2@domain2.com).
 - Support plain, HTML and Rich text.
 - Support for attach multiple files in any format and size.
