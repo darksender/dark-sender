@@ -45,7 +45,7 @@ The price of the License Key to use the email spoofer is **$80**. With the purch
 
 ## Buy License Key for SMS spoofer 🔑💬
 
-The price of the License Key to use the SMS spoofer is **$90**. With the purchase of this License Key you will be able to **send 50,000 SMS without daily limits**. This License Key never expires, it is only used up when all available sends are used up.
+The price of the License Key to use the SMS spoofer is **$100**. With the purchase of this License Key you will be able to **send 50,000 SMS without daily limits**. This License Key never expires, it is only used up when all available sends are used up.
 
 **👛 Accepted payment methods:**
 
@@ -57,7 +57,7 @@ The price of the License Key to use the SMS spoofer is **$90**. With the purchas
 
 ## Buy source code 🔐📧💬
 
-The application is built in PHP and the interface is in HTML using a little CSS and JavaScript. With a simple style it has all the necessary options for email and SMS spoofing. The application uses its own private SMTP and SMS server. It does not use external services such as Twilio, Vonage, Brevo or others, as these services track the activity and ban the user. The purchase includes the following: The interface (index.html), the script to send emails (email.php) the script to send SMS (sms.php), a script to create License Keys (licenses.php), an API key to connect the email and SMS services. With the API key you can send unlimited and permanent emails and SMS without any daily limit. The purchase also includes help and support for software configuration and any other related issues. The price of source code is **$450**.
+The application is built in PHP and the interface is in HTML using a little CSS and JavaScript. With a simple style it has all the necessary options for email and SMS spoofing. The application uses its own private SMTP and SMS server. It does not use external services such as Twilio, Vonage, Brevo or others, as these services track the activity and ban the user. The purchase includes the following: The interface (index.html), the script to send emails (email.php) the script to send SMS (sms.php), a script to create License Keys (licenses.php), an API key to connect the email and SMS services. With the API key you can send unlimited and permanent emails and SMS without any daily limit. The purchase also includes help and support for software configuration and any other related issues. The price of source code is **$350**.
 
 **👛 Accepted payment methods:**
 
